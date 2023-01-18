@@ -18,9 +18,14 @@ else :
     print("autre")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# C'est OK pour moi
+>>>>>>> 38e9c1a (Acceptation des modifications)
 while i<10 :
-    print "Bonjour +i "
+    print "Bonjour +i"
 
+<<<<<<< HEAD
 =======
 #les clés du token pour accéder
 key='72fa3df10a62414dssfsfsa1a193876b9eefcbab2f8656c114215dfsdfcd4c4183f35796c7c279a5'
@@ -44,3 +49,7 @@ response = requests.get(api_url, headers=headers)
 # Afficher la réponse
 print(response.json())
 >>>>>>> d2ec0eb (modification de main.py afin d'ajouter des acces à 3commas)
+=======
+class (self):
+	--init--
+>>>>>>> 38e9c1a (Acceptation des modifications)
