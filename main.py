@@ -17,6 +17,7 @@ elif a==2
 else :
     print("autre")
 
+<<<<<<< HEAD
 
 while i<10 :
     print "Bonjour +i"
@@ -43,3 +44,11 @@ response = requests.get(api_url, headers=headers)
 
 # Afficher la réponse
 print(response.json())
+=======
+# C'est OK pour moi
+while i<10 :
+    print "Bonjour +i"
+
+class (self):
+	--init--
+>>>>>>> 38e9c1a (Acceptation des modifications)
