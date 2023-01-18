@@ -6,7 +6,8 @@ a=1
 if false : # Changement ici
     print "c'est vrai"
     print "c'est faux"
-    break
+    bre
+   k
 elif a==2
     print " Deux"
     break
