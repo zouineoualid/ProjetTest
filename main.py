@@ -17,16 +17,11 @@ elif a==2
 else :
     print("autre")
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# C'est OK pour moi
->>>>>>> 38e9c1a (Acceptation des modifications)
+
 while i<10 :
     print "Bonjour +i"
 
-<<<<<<< HEAD
-=======
+
 #les clés du token pour accéder
 key='72fa3df10a62414dssfsfsa1a193876b9eefcbab2f8656c114215dfsdfcd4c4183f35796c7c279a5'
 secret='afa5d8fbb8030b922f80dsffds2151e159f027cd642a939be23d1e823a549618e3f8d484ca53b777bdb196cb6b39b3a9d96fc9d96701826aeecff93e947cc2bb9fa88b218f7994f699689b53ab8445s1dfs51sdfdea95cb4eb33bb145214dsfsfsdygsdhv142dfs12zZ24d5sfsdf1'
@@ -48,8 +43,3 @@ response = requests.get(api_url, headers=headers)
 
 # Afficher la réponse
 print(response.json())
->>>>>>> d2ec0eb (modification de main.py afin d'ajouter des acces à 3commas)
-=======
-class (self):
-	--init--
->>>>>>> 38e9c1a (Acceptation des modifications)
